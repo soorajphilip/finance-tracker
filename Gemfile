@@ -36,6 +36,8 @@ gem 'hirb'
 
 gem 'iex-ruby-client'
 
+gem "font-awesome-rails"
+
 group :production do 
   gem 'pg'
 end
