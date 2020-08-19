@@ -1,1 +1,1 @@
-This is the finance tracker app 
+This is the finance tracker app used for tracking stocks from different companies
